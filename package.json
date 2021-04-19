@@ -1,0 +1,22 @@
+{
+  "name": "adraquebernabeprelimexam",
+  "version": "1.0.0",
+  "description": "AdraqueBernabePrelimExam",
+  "main": "index.js",
+  "scripts": {
+    "test": "AdraqueBernabe"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cabernabe/AdraqueBernabePrelimExam.git"
+  },
+  "author": "AdraqueBernabe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabernabe/AdraqueBernabePrelimExam/issues"
+  },
+  "homepage": "https://github.com/cabernabe/AdraqueBernabePrelimExam#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
